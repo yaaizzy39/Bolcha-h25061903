@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "bolcha/dist",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
